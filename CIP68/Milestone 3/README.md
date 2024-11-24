@@ -7,18 +7,34 @@
 
 
 
-## **1. Smart Contract Specification Design Report**  
+## **1. Smart Contract Specification Design Report** 
+
+Outline all the necessary requirements and functionality based on user needs gathered through surveys. The specification ensures the smart contract is designed to meet user needs from the findings.
+
+**Evidence**: 
+
+  - Smart contract specification design report: [Link Report]()
+
+To make it easier for users, we provide a detailed tutorial video explaining how the smart contract works, including the model, source code, and more. You can watch it through the link below: [Smart Contract Video Guide]()
+
+
+## **2. Code repository of Onchain and Offchain** 
+
+The Onchain and Offchain code repository have been developed and integrated to ensure compatibility.
 
 **Evidence**:  
 
-## **2. Code repository of Onchain and Offchain  **  
+  - Code repository of Onchain and Offchain: [Onchain/Offchain Github Link]()
+  - Testcase smart contract document: [Testcase Smart Contract CIP68 Link]()
+
+
+## **3. Smart Contract Vulnerable Assessment Report**  
+
+Details the assessment performed on the smart contract, identifying and addressing potential vulnerabilities to ensure its security and functionality.
 
 **Evidence**:  
 
-## **3. Smart Contract Vulnerable Assessment Report **  
-
-**Evidence**:  
-
+  - Smart contract vulnerable assessment report: [SMC Vulnerable Assessment Link Report]()
 
 ## **4. Our weekly meeting minutes** 
 
