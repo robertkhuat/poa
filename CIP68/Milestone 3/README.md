@@ -9,13 +9,13 @@
 
 ## **1. Smart Contract Specification Design Report** 
 
-Outline all the necessary requirements and functionality based on user needs gathered through surveys. The specification ensures the smart contract is designed to meet user needs from the findings.
+Outline all the neccessary requirements and functionality based on user needs gathered through surveys. The specification ensures the smart contract is designed to meet user needs from the findings.
 
 **Evidence**: 
 
-  - Smart contract specification design report: [Link Report]()
+  - Smart contract specification design report: [Link Report](https://docs.google.com/spreadsheets/d/1JKXN7hoDat5nHQ5JGS_TP_tEAi2llWwrZgNa5XWNc4s/edit?gid=0#gid=0)
 
-To make it easier for users, we provide a detailed tutorial video explaining how the smart contract works, including the model, source code, and more. You can watch it through the link below: [Smart Contract Video Guide]()
+To make it easier for users, we provide a detailed tutorial video explaining how the smart contract works, including the model, source code, and more. You can watch it through the link below: [Smart Contract Video Guide](https://drive.google.com/file/d/1arHXyMzxRb9tjP5npqbq6z61dSmwNnvp/view?usp=drive_link)
 
 
 ## **2. Code repository of Onchain and Offchain** 
@@ -24,8 +24,8 @@ The Onchain and Offchain code repository have been developed and integrated to e
 
 **Evidence**:  
 
-  - Code repository of Onchain and Offchain: [Onchain/Offchain Github Link]()
-  - Testcase smart contract document: [Testcase Smart Contract CIP68 Link]()
+  - Code repository of Onchain and Offchain: [Onchain/Offchain Github Link](https://github.com/cardano2vn/cip68generator/tree/main/contract)
+  - Testcase smart contract document: [Testcase Smart Contract CIP68 Link](https://docs.google.com/spreadsheets/d/1JKXN7hoDat5nHQ5JGS_TP_tEAi2llWwrZgNa5XWNc4s/edit?gid=0#gid=0)
 
 
 ## **3. Smart Contract Vulnerable Assessment Report**  
