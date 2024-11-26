@@ -41,9 +41,9 @@ Details the assessment performed on the smart contract, identifying and addressi
 Here are the key meetings that have been recorded to track progress, address challenges, and plan the next steps of the project:
 
 - C2VN: Regular meeting F12 proposals 04/11/2024 -[1200167]: [Recording](https://youtu.be/O36dwFICYmQ) - [Meeting minutes](https://docs.google.com/document/d/11TJK7x_ohuTATVBU42xj2l8wSgfF3IJ-/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 11/11/2024 -[1200167]: [Recording]() - [Meeting minutes](https://docs.google.com/document/d/14XTA4EPvPNayymlWc0QLFQwoCKvRj2jo/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 18/11/2024 -[1200167]: [Recording]() - [Meeting minutes](https://docs.google.com/document/d/1q8FFSb85Ohoh27g6d8VdFHDNxuHkuG_7/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
-- C2VN: Regular meeting F12 proposals 25/11/2024 -[1200167]: [Recording]() - [Meeting minutes](https://docs.google.com/document/d/1tRBdTeLkOQNQW5uY_dzdeSrjvXb7jlRB/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 11/11/2024 -[1200167]: [Recording](https://youtu.be/JISMWWq-ulU) - [Meeting minutes](https://docs.google.com/document/d/14XTA4EPvPNayymlWc0QLFQwoCKvRj2jo/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 18/11/2024 -[1200167]: [Recording](https://youtu.be/xcKaZU0koWw) - [Meeting minutes](https://docs.google.com/document/d/1q8FFSb85Ohoh27g6d8VdFHDNxuHkuG_7/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 25/11/2024 -[1200167]: [Recording](https://youtu.be/zxF2v_U957Y) - [Meeting minutes](https://docs.google.com/document/d/1tRBdTeLkOQNQW5uY_dzdeSrjvXb7jlRB/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 
 
 
