@@ -40,7 +40,7 @@ Provides the documentation related to the Bug Bounty Program, including the regi
 - Bug Bounty Program Registration Form: [Bug Bounty Program Registration](https://forms.gle/Jdpz9vXJWHAqgXNN6)  
 - Responses to Bug Bounty Program Form: [Bug Bounty Responses](https://docs.google.com/spreadsheets/d/1L3f0TlMj0jSl-I0CTtuPCTGMwA3pjo8GPhv1Pb_qXNk/edit?gid=1135307451#gid=1135307451)
 - Bug Bounty Program Plan:
-  - [Vietnamese Version](https://drive.google.com/drive/folders/1hfR-Xe1zwUbidcAS0u72zObYlwY6oeHP)  
+  - [Vietnamese Version](https://drive.google.com/file/d/1Xj0P-SIGFtqZE-Kl6m7nqdBrU3ngwduu/view?usp=drive_link)  
   - [English Version](https://drive.google.com/file/d/1nYN6RmpEjIfjcuWPpqyPY3aeC4iTzYrI/view?usp=sharing)
 - Bug Bounty Program Final Report:  
   - [Vietnamese Version](#)  
