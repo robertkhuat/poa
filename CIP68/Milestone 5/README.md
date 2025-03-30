@@ -29,7 +29,7 @@ This report comprehensively documents all completed activities and progress made
 Lists all the relevant pull requests related to updates made during this milestone. 
 
 **Evidence**:  
-- Pull Requests on GitHub: [Pull Requests List](Link to Pull Requests)
+- Pull Requests on GitHub: [Pull Requests List](https://github.com/cardano2vn/cip68generator/pulls?q=is%3Aopen+is%3Apr)
 
 ---
 
@@ -38,7 +38,7 @@ Lists all the relevant pull requests related to updates made during this milesto
 Provides the link to the deployed version of the application on the mainnet.
 
 **Evidence**:  
-- Application on Mainnet: [App on Mainnet](Link to Mainnet URL)
+- Application on Mainnet: [App on Mainnet](https://cip68.cardano2vn.io/)
 
 ---
 
@@ -48,9 +48,9 @@ Contains the User Acceptance Testing document that covers test cases, results, a
 
 **Evidence**:  
 1st UAT: 
-- UAT Plan:
-- UAT spreadsheet:
-- UAT results report:
+- UAT Plan: Plan Docx
+- UAT spreadsheet: UAT Tracking
+- UAT results report: UAT Results Report
 
 2nd UAT: 
 - UAT Plan:
@@ -64,7 +64,7 @@ Contains the User Acceptance Testing document that covers test cases, results, a
 This includes a document or spreadsheet tracking all marketing posts related to the promotion of the project. It shows the status and progress of the promotional efforts.
 
 **Evidence**:  
-- Marketing Posts Tracking Document: [Marketing Posts Tracking](Link to Document)
+- Marketing Posts Tracking Document: [Marketing Posts Tracking](https://docs.google.com/spreadsheets/d/1LQF7zFIo-nLMYyCmsRBt0H0erxwbQkAkjHKyaza_cwE/edit?gid=924843098#gid=924843098)
 
 ---
 
@@ -74,8 +74,8 @@ This document provides a comprehensive user guide or tutorial for end users to u
 
 **Evidence**:  
 - User Guide/Tutorial Document: [User Guide/Tutorial](Link to Document)
-- Smart contract video guide: [Video Guide Link](#)
-- The demo video can be accessed here: [Link Video Demo](#)
+- Smart contract video guide: [Video Guide Link](https://drive.google.com/file/d/1arHXyMzxRb9tjP5npqbq6z61dSmwNnvp/view?usp=drive_link)
+- The demo video (FE, BE) can be accessed here: [Link Video Demo](https://www.youtube.com/watch?v=GzEyzRX6gUM)
 
 ---
 
@@ -84,8 +84,7 @@ This document provides a comprehensive user guide or tutorial for end users to u
 Links to the public GitHub repository where the project’s source code is stored.
 
 **Evidence**:  
-- Code Repository on GitHub: [GitHub Repository](Link to GitHub Repository)
-
+- Code Repository on GitHub: [GitHub Repository](https://github.com/cardano2vn/cip68generator)
 ---
 
 ## **7. Meeting Minutes (Contain Weekly Meeting Records)**
@@ -111,7 +110,7 @@ A final report that summarizes the entire project, including its objectives, pro
 
 ## **9. Link to Final Closeout Video**
 
-The final video providing a comprehensive overview and demonstration of the project, its features, and achievements.
+The final video provides a comprehensive overview and demonstration of the project, its features, and achievements.
 
 **Evidence**:  
 - Final Closeout Video: [Closeout Video](Link to Video)
