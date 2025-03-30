@@ -73,7 +73,7 @@ This includes a document or spreadsheet tracking all marketing posts related to 
 This document provides a comprehensive user guide or tutorial for end users to understand how to use the application.
 
 **Evidence**:  
-- User Guide/Tutorial Document: [User Guide/Tutorial](Link to Document)
+- User Guide/Tutorial Document: [User Guide/Tutorial](https://github.com/cardano2vn/cip68generator/wiki)
 - Smart contract video guide: [Video Guide Link](https://drive.google.com/file/d/1arHXyMzxRb9tjP5npqbq6z61dSmwNnvp/view?usp=drive_link)
 - The demo video (FE, BE) can be accessed here: [Link Video Demo](https://www.youtube.com/watch?v=GzEyzRX6gUM)
 
@@ -93,9 +93,11 @@ This section provides the records of weekly meetings that track the progress, ch
 
 **Evidence**:  
 - Meeting Minutes Record:  
-  - [Recording of Meeting 1](Link to Recording) - [Meeting Minutes](Link to Meeting Minutes)  
-  - [Recording of Meeting 2](Link to Recording) - [Meeting Minutes](Link to Meeting Minutes)  
-  - [Recording of Meeting 3](Link to Recording) - [Meeting Minutes](Link to Meeting Minutes)
+nhap
+- C2VN: Regular meeting F12 proposals 04/11/2024 -[1200167]: [Recording](https://youtu.be/O36dwFICYmQ) - [Meeting minutes](https://docs.google.com/document/d/11TJK7x_ohuTATVBU42xj2l8wSgfF3IJ-/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 11/11/2024 -[1200167]: [Recording](https://youtu.be/JISMWWq-ulU) - [Meeting minutes](https://docs.google.com/document/d/14XTA4EPvPNayymlWc0QLFQwoCKvRj2jo/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 18/11/2024 -[1200167]: [Recording](https://youtu.be/xcKaZU0koWw) - [Meeting minutes](https://docs.google.com/document/d/1q8FFSb85Ohoh27g6d8VdFHDNxuHkuG_7/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
+- C2VN: Regular meeting F12 proposals 25/11/2024 -[1200167]: [Recording](https://youtu.be/zxF2v_U957Y) - [Meeting minutes](https://docs.google.com/document/d/1tRBdTeLkOQNQW5uY_dzdeSrjvXb7jlRB/edit?usp=drive_link&ouid=107549707092065987144&rtpof=true&sd=true)
 
 ---
 
@@ -110,7 +112,7 @@ A final report that summarizes the entire project, including its objectives, pro
 
 ## **9. Link to Final Closeout Video**
 
-The final video provides a comprehensive overview and demonstration of the project, its features, and achievements.
+The final video provides a comprehensive overview and demonstration of the project, its features, and its achievements.
 
 **Evidence**:  
 - Final Closeout Video: [Closeout Video](Link to Video)
