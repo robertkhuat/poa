@@ -6,12 +6,12 @@ Evidence: …
 
 **2. Submission Form Evidence**
 
-Biểu mẫu nộp bài trực tuyến bao gồm đầy đủ các trường thông tin (thí sinh, dự án, kỹ thuật, file đính kèm), công khai, dễ truy cập và vận hành ổn định trên các thiết bị, trình duyệt. Có Screenshots or a video demo showing the form's usability and functionality.
+The online submission form includes all required fields (participant, project, technical info, attachments), is publicly accessible, easy to navigate, and works smoothly across devices and browsers. Includes screenshots or a video demo showing the form's usability and functionality.
 
 Evidence: …
 
 **3. Workshop Evidence**
 
-Tổ chức 3 workshop tại Hà Nội với trên 30 người tham gia mỗi buổi, gồm lập trình viên, sinh viên và chuyên gia. Mức độ tương tác cao (trên 30% đặt câu hỏi hoặc thảo luận). Có hình ảnh, danh sách tham dự, tài liệu và kết quả khảo sát sau sự kiện.
+Three workshops were held in Hanoi with over 30 participants each, including developers, students, and professionals. High engagement levels (30%+ asking questions or joining discussions). Includes photos, participant lists, materials used, and post-event survey results.
 
 Evidence: …
